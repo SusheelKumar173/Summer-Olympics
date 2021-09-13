@@ -2,10 +2,10 @@
 - Creator : G.Susheel Kumar
 
 # CSV
-      CSV stands for Comma Separated Values. A CSV file is a plain text file that stores tables and spreadsheet information. The contents are often a table of text, numbers, or dates. CSV files can be easily imported and exported using programs that store data in tables.
+CSV stands for Comma Separated Values. A CSV file is a plain text file that stores tables and spreadsheet information. The contents are often a table of text, numbers, or dates. CSV files can be easily imported and exported using programs that store data in tables.
 
 # Dataset Used 
-              Olympics Dataset.
+Olympics Dataset.
 
 # Tools used:
 
