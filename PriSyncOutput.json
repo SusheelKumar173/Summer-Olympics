@@ -1,0 +1,63 @@
+{
+  "PricingReferenceID": "AKOW490526",
+  "Status": "Success",
+  "ValidationErrors": [],
+  "ValidationWarnings": [
+    {}
+  ],
+  "ModelPrice": {
+    "Summary": [
+      {
+        "PolicyReference": "ABC318",
+        "NonCATExpectedLoss": 553404090.843638,
+        "CATExpectedLoss": 2005533.8259596121,
+        "TotalExpectedLoss": 573404090.843638,
+        "ActualGNWP100Pct": 12541920,
+        "ActualGNWPTalbotShare": 3637156.8,
+        "TotalELTalbotShare": 166287186.34465498,
+        "TargetGCR": 0.9051406,
+        "FixedExpenses": 23471.9608438305,
+        "VariableExpenses": 44555571.85786178,
+        "TechnicalGGWPTalbotShare": 405558308.3209132,
+        "TechnicalAdequacy": 0.014587298246936031,
+        "ExpectedGNLR": 45.719004015624236,
+        "GNPlanLR": 0.580211,
+        "GNBMPremiumTalbotShare": 286597783.1248545,
+        "GGBMPremiumTalbotShare": 466164253.61882645,
+        "BenchmarkAdequacy": 0.012690805770871911,
+        "TechnicalGGWP100Pct": 1398476925.2445283,
+        "ExposureBreakdown_FineArt": {
+          "PremisesValuesExposed100Pct": 90000000,
+          "PremisesLimitsExposed100Pct": 86000000,
+          "PremisesLimitsExposedTalbotShare": 24940000,
+          "PremisesExpectedLossTalbotShare": 4246.66539932334,
+          "ExhibitionsValuesExposed100Pct": 3640000000,
+          "ExhibitionsLimitsExposed100Pct": 3620000000,
+          "ExhibitionsLimitsExposedTalbotShare": 1049799999.9999999,
+          "ExhibitionsExpectedLossTalbotShare": 2169934.7170976186,
+          "DealersGalleriesValuesExposed100Pct": 5720000000,
+          "DealersGalleriesLimitsExposed100Pct": 5640000000,
+          "DealersGalleriesLimitsExposedTalbotShare": 1635600000,
+          "DealersGalleriesExpectedLossTalbotShare": 28206607.636690523,
+          "AdditionalCoveragesValuesExposed100Pct": 16200000000,
+          "AdditionalCoveragesLimitsExposed100Pct": 16200000000,
+          "AdditionalCoveragesLimitsExposedTalbotShare": 4698000000,
+          "AdditionalCoveragesExpectedLossTalbotShare": 130688002.13499579
+        },
+        "TechnicalPremiumRate_FineArt": {
+          "TechnicalPremiumRatePremisesFA": 0.0004231841633236221,
+          "TechnicalPremiumRateExhibitionsFA": 0.005173181312878793,
+          "TechnicalPremiumRateDealersGalleriesFA": 0.0429689312229949
+        },
+        "ExposureBreakdown_Totals": {
+          "TotalValuesExposed100Pct": 25650000000,
+          "TotalLimitsExposed100Pct": 25546000000,
+          "TotalLimitsExposedTalbotShare": 7408340000,
+          "TotalExpectedLossTalbotShare": 161068791.15418327
+        },
+        "LargeExpectedLossExclLoss": 145346432.13771114,
+        "AttritionalExpectedLossExclLoss": 65482564.70492265
+      }
+    ]
+  }
+}
